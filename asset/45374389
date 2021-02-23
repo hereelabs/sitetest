@@ -1,0 +1,25 @@
+--rbxsig%2EvNc3ZItLCvIWrYb+rsCb6x1lH6WQxVPKhRdtxrr8cHb1vKCOg8XtBnGRfQE7Bn//nu066fOiZoh3cIQEbi0JSbebiac+E3e8AnQjyeXqrH0OhCoxUHzi77O9nNnSbOwuYLGT4THrlaWvCSJGHoPT4WuqYgsofryPVjzSmRjSw=%
+--rbxassetid%45374389%
+local t = {}
+
+t.Foo = 
+	function() 
+		print("foo") 
+	end
+
+t.Bar = 
+	function() 
+		print("bar") 
+	end
+
+t.Help = 
+	function(funcNameOrFunc) 
+		--input argument can be a string or a function.  Should return a description (of arguments and expected side effects)
+		if funcNameOrFunc == "Foo" or funcNameOrFunc == t.Foo then 
+			return "Function Foo.  Arguments: None.  Side effect: prints foo" 
+		elseif funcNameOrFunc == "Bar" or funcNameOrFunc == t.Bar then 
+			return "Function Bar.  Arguments: None.  Side effect: prints bar" 
+		end 
+	end
+
+return t
