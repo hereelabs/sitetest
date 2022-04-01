@@ -12,3 +12,4 @@ it was one of the very few fun things i could do last year during the pandemic.
 im very happy i was able to atleast amuse everyone in the hereelabs discord,
 i really hope you find this useful!
 - heree
+(im not fixing the sound issue, its your job to do what you need with this. i wont make a patching guide, atleast here. if you're in the [now private] discord server then i will release it sometime.)
