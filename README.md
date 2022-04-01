@@ -20,3 +20,7 @@ i really hope you find this useful!
 - heree
 
 (im not fixing the sound issue, its your job to do what you need with this. i wont make a patching guide, atleast here. if you're in the [now private] discord server then i will release it sometime.)
+
+ill tell you atleat this one thing, though.
+
+string search bgiaaa (the public key) and transfer it to a different client if you want a earlier or later verison. you will have to patch everything else, though
