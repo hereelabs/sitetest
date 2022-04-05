@@ -8,6 +8,14 @@ uh yeah it has all the important site files for my revival (which still exists a
 i will release this once site is uh dead
 # where is client
 client is at the hereebl0x folder, but content is missing. you gotta find it!!! client is early 2014, just find a content folder from then.
+
+# Installation
+Install xampp
+download the files and drop them into htdocs
+go to the hosts file and add
+127.0.0.1 hereelabs.cf
+get a content folder from early 2014 and copy it into the game folder
+
 # note 4/1/2022 (april 1st 2022)
 no this isnt a april fools prank, im finally making this public.
 
